@@ -17,6 +17,9 @@ A new Flutter Assignment from India Today Group.
 |-|-|-|-|-|
 |![1645590444875](https://user-images.githubusercontent.com/57620850/155262951-d4ab592c-5950-46ba-ba54-d2e62466c1ef.jpg)|![1645590444865](https://user-images.githubusercontent.com/57620850/155262979-d94dd477-612d-4e54-8450-2503c36e7f49.jpg)|![1645590444856](https://user-images.githubusercontent.com/57620850/155262970-95094985-cbb0-4bd1-8dc6-061e40e5bdbc.jpg)|![1645590444832](https://user-images.githubusercontent.com/57620850/155262959-d2de7c34-1763-4c7a-a6ea-1d6c0e619598.jpg)|![1645590444849](https://user-images.githubusercontent.com/57620850/155262966-c18a4b2d-378a-4d06-bba5-41e0a880c310.jpg)|
 
+## Youtube Preview
+[Video](https://youtu.be/_mUMpi9InR0)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
